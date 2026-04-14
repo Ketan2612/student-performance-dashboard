@@ -103,7 +103,7 @@ student-performance-dashboard/
 ## 👤 Author
 
 **[Ketan Tewari]**  
-[(https://www.linkedin.com/in/ketantewari)]| 
+[(https://www.linkedin.com/in/ketantewari)] | 
 [https://github.com/Ketan2612]
 
 ---
